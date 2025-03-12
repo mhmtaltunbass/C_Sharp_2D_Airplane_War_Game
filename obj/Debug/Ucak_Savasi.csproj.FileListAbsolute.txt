@@ -1,0 +1,30 @@
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe.config
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\bin\Debug\Ucak_Savasi.pdb
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.AssemblyReference.cache
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.Form1.resources
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.Properties.Resources.resources
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.GenerateResource.cache
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.exe
+C:\Users\MEHMET ALTUNBAŞ\Downloads\c-sharp-ucak-savas-oyunu-master (1)\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.pdb
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe.config
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\bin\Debug\Ucak_Savasi.pdb
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.AssemblyReference.cache
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.Form1.resources
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.Properties.Resources.resources
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.GenerateResource.cache
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.exe
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master\Ucak_Savasi\obj\Debug\Ucak_Savasi.pdb
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe.config
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\bin\Debug\Ucak_Savasi.exe
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\bin\Debug\Ucak_Savasi.pdb
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.AssemblyReference.cache
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\obj\Debug\Ucak_Savasi.Form1.resources
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\obj\Debug\Ucak_Savasi.Properties.Resources.resources
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.GenerateResource.cache
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\obj\Debug\Ucak_Savasi.csproj.CoreCompileInputs.cache
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\obj\Debug\Ucak_Savasi.exe
+C:\Users\MEHMET ALTUNBAŞ\Desktop\c-sharp-ucak-savas-oyunu-master1\Ucak_Savasi\obj\Debug\Ucak_Savasi.pdb
